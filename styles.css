@@ -1,0 +1,24 @@
+/* Center the stopwatch */
+.stopwatch {
+    background:#24011ad7;
+    text-align: center;
+    margin-top: 200px;
+    border: 100px;
+    padding: 100px;
+    background-position: 500px;
+    background-image: url(ivan-mani-EZNAex0vLPw-unsplash.jpg);
+     height: 500px; width: 500px; border-radius: 100px;
+    
+
+}
+
+/* Style the buttons */
+button {
+    padding: 100px 20px;
+    font-size: 35px;
+    margin: 10px;
+    border-radius: 100px;
+    text-align: center;
+    align-items: center;
+}
+ 
